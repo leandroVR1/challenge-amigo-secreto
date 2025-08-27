@@ -23,10 +23,6 @@ Esta aplicación web permite organizar un sorteo de "Amigo Secreto" de manera se
    cd challenge-amigo-secreto_esp-main
    ```
 
-## Dependencias
-
-Este proyecto es una aplicación web simple que solo utiliza HTML, CSS y JavaScript puro.  
-No requiere dependencias externas ni instalación de paquetes.
 
 ## Cómo ejecutar el proyecto
 
