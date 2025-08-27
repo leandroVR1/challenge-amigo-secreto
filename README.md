@@ -37,7 +37,7 @@ No requiere dependencias externas ni instalación de paquetes.
 ![Captura del proyecto](assets/captura.png)
 
 ## Demo
-👉 [Probar la aplicación](https://usuario.github.io/challenge-amigo-secreto/)
+👉 [Probar la aplicación](https://leandrovr1.github.io/challenge-amigo-secreto/)
 
 
 ## Posibles problemas y soluciones
