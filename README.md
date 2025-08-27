@@ -1,3 +1,6 @@
+![HTML](https://img.shields.io/badge/HTML-5-orange) ![CSS](https://img.shields.io/badge/CSS-3-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+
+
 # Challenge Amigo Secreto
 
 Esta aplicación web permite organizar un sorteo de "Amigo Secreto" de manera sencilla. Los usuarios pueden agregar nombres de amigos, visualizar la lista y realizar el sorteo para descubrir quién será su amigo secreto.
@@ -32,6 +35,10 @@ No requiere dependencias externas ni instalación de paquetes.
 
 ## Vista previa
 ![Captura del proyecto](assets/captura.png)
+
+## Demo
+👉 [Probar la aplicación](https://usuario.github.io/challenge-amigo-secreto/)
+
 
 ## Posibles problemas y soluciones
 
